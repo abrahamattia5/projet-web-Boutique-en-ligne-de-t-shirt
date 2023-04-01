@@ -1,0 +1,113 @@
+@import 'header.css'; 
+
+
+#redirectionAcceuil {
+	margin: 40px ; 
+	font-size: 1em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+
+}
+#infoArticle{
+	color: blue ; 
+}
+
+#article {
+	border: 1px solid black ; 
+	background-color: #ECE6E6 ; 
+	width: 30% ;
+	margin: 20px; 
+}
+
+#lesarticles {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+#info {
+	display: flex;
+	justify-content: space-around;
+}
+
+#qn p , #tp p {
+	 
+	justify-content: space-between;
+}
+
+#img {
+	width: 100% ;
+}
+
+p{
+	font-size: 0.9em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+}
+
+#a{
+	font-size: 0.9em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#connexion {
+	display: flex;
+	justify-content: left ;
+}
+
+#header{
+	height: 200px;
+	background-color: #10f9bd;
+	display: flex;
+	justify-content: space-between;
+}
+
+#menuheader{
+	display: flex;
+	align-items: flex-end; 
+	width: 30%;
+}
+a{
+	padding: 30px;
+	text-decoration: none;
+	color: blue;
+	
+}
+
+#titreheader{
+margin-top: 10px;
+}
+
+p{
+	font-size: 30px;
+}
+
+#M2L{
+	margin-left: 50px;
+	font-size: 50px;
+}
+*/

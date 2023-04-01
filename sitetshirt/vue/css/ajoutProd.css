@@ -1,0 +1,19 @@
+@import 'header.css' ; 
+
+form{
+	border: 1px solid #00ABDE ;  
+	text-align: center;   
+	font-size: 1em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+	
+	
+	padding : auto;
+	margin: auto ; 
+}
+
+p{
+	color: #00ABDE ;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}

@@ -1,0 +1,63 @@
+@import 'header.css' ; 
+
+#redirectionAcceuil {
+	margin: 40px ; 
+	font-size: 1em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+}
+
+h3  {
+	color:  ;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 1.4em ; 
+	border: 2px solid #00ABDE;
+	padding: auto;
+	border-radius: 10px ; 
+
+}
+
+#a{
+	color: black;
+	font-weight: bold;
+	font-size: 1.2em ;
+
+}
+
+#lesarticles {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+#article{
+	border: 1px solid black ; 
+	width: 30% ;
+	margin: 20px; 
+	border-radius: 10px ; 
+
+
+}
+
+#description{
+	text-align: center;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: space-around;
+	height : 100px; 
+}
+#photo {
+	width: 150px ; 
+	height: 150px ; 
+}
+
+
+#form {
+	
+	
+	border : 1px solid black ; 
+	border-radius: 10px ; 
+
+}
+

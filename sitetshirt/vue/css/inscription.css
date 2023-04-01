@@ -1,0 +1,29 @@
+@import 'header.css' ;
+
+#redirectionAcceuil {
+	margin: 40px ; 
+	
+}
+
+#inscription{
+	text-align: center ; 
+	color: #00ABDE ;
+	font-size: 2em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+}
+
+form{
+	border: 1px solid #00ABDE ;  
+	text-align: center;   
+	font-size: 2em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+	width: 40%;
+	height: 300px;
+	padding : auto;
+	margin: auto ;  
+}
+
+#sub{
+	color:  #00ABDE;
+	font-size: 0.8em;
+}

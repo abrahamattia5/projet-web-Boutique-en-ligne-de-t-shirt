@@ -1,0 +1,75 @@
+@import 'header.css' ;
+
+
+a{
+	color: green ;
+}
+
+
+
+#inforArt { 
+	display: flex;
+	justify-content: space-around;
+}
+form{ 
+	text-align: center;   
+	font-size: 1em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+	width: 500px;
+	
+	padding : auto;
+	margin-top: 90px ;  
+}
+}
+#ff{
+	border: 1px solid black ;
+	display: flex; 
+	margin:auto; 
+	width: 500px;	
+	height: 500px;
+	flex-wrap: wrap;
+
+}
+label {
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+	font-weight: bold;
+}
+
+ul{
+	vertical-align: bottom; 
+}
+
+#contenu{
+font:Verdana, Geneva, sans-serif;
+font-size:18px;
+text-align:left;
+height:50px;
+display: table;
+width: 100%;
+}
+#contenu span {
+/* Aligne le texte verticalement au milieu */
+vertical-align:middle;
+display: table-cell;
+}
+
+li {
+	margin-top: 19px  ;
+	margin-left: 15%;
+}
+
+#sub{
+	margin-right: 15%;
+	color: black;
+	font-size: 1.3em;
+	background-color: 
+}
+
+#nom{
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	text-align: left;
+	color:  #00ABDE;
+	
+}

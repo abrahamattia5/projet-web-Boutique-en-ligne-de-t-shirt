@@ -1,0 +1,21 @@
+@import 'header.css' ;
+
+#redirectionAcceuil {
+margin :40px ;   
+border: 1px solid black ;	
+text-align:left;
+}
+
+#texteRefus{
+	border: 1px solid black ;	
+	text-align: center;
+	color: red ; 
+	font-size: 1.5em ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+}
+
+
+#nvessai{
+	color: black ;
+	font-size: 1em ; 
+}

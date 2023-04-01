@@ -1,0 +1,35 @@
+<?php 
+ 
+if(isset($_GET['deco'])){
+	require"vue/center/deco.php";
+}
+elseif(isset($_GET['profil'])){
+	require"vue/center/profil.php";
+}
+elseif(isset($_GET['co'])){
+	require"vue/center/connexion.php";
+}
+elseif(isset($_GET['ajoutProd'])){
+	require"vue/center/ajoutProd.php";
+}
+elseif(isset($_GET['refus'])){
+	require"vue/center/refus.php";
+}
+elseif(isset($_GET['inscription'])){
+	require"vue/center/inscription.php";
+}
+elseif(isset($_GET['liste'])){
+	require"vue/center/liste.php";
+}
+elseif(isset($_GET['article'])){
+	require"vue/center/article.php";
+}
+elseif(isset($_GET['panier'])){
+	require"vue/center/panier.php";
+}
+elseif(isset($_GET['gestionStock'])){
+	require"vue/center/gestionStock.php";
+}
+else{
+	require"vue/center/acceuil.php" ; 
+} 

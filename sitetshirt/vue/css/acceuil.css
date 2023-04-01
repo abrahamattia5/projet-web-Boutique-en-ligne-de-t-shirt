@@ -1,0 +1,43 @@
+@import 'header.css' ;
+
+#lescategories{
+	display: flex;
+	justify-content: space-between;
+}
+#categorieHOMME {
+	width: 30%;
+	text-align: center;
+	height: 170px;
+	background-color: #f9ee10;
+	border-radius: 20px ; 
+	padding-top:200px;
+
+}
+#categorieFEMME {
+	width: 30%;
+	text-align: center;
+	height: 170px;
+	background-color: #96f910;
+	border-radius: 20px ; 
+	padding-top:200px;
+
+}
+#categorieMATERIEL {
+	width: 30%;
+	text-align: center;
+	height: 170px;
+	background-color: #10d9f9;
+	border-radius: 20px ; 
+	padding-top:200px;
+
+}
+
+#cat{
+	text-decoration: none;
+	margin-top: 50px;
+	padding: 100px;
+	font-family: Verdana ,"Trebuchet MS" ,  sans-serif;
+	font-size: 2em ;
+	color:  #005dd3;
+}
+

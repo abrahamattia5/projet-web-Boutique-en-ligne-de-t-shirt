@@ -1,0 +1,42 @@
+@import 'header.css' ;
+
+#redirectionAcceuil {
+	margin: 40px ; 
+	
+}
+
+#a{
+	text-decoration: none;
+	padding: 30px ; 
+	border-radius: 20px ; 
+	background-color:  #00d39c ;
+	color: black ;
+	text-align: center;
+	border: 2px solid black ; 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+	font-size: 1.5em ;
+	width: 300px;
+	 
+}
+
+#oui , #non {
+	text-align: center;	
+	margin : auto ;
+}
+
+#choix {
+	display: flex;
+	text-align: center;	
+	margin-top: 100px ; 
+
+}
+
+#p{
+	margin-top: 80px ;
+	margin-bottom: 	120px ; 
+	text-align: center;
+	font-size: 1.5em ; 
+	color: 
+	font-family: "Trebuchet Ms" , Verdana ,  sans-serif;
+
+}
